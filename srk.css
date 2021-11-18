@@ -1,0 +1,43 @@
+body
+{
+  font-family: sans-serif;
+  background-color: #f4f9f9;
+
+}
+.first
+{
+  text-align : center;
+
+}
+
+h1
+{
+  color: blue;
+}
+hr{
+  width: 3%;
+  border: none;
+  border-top: dotted;
+  color : grey;
+  border-width: 5px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+h3
+{
+  color: red;
+}
+.cen{
+  text-align : center ;
+  background-color: #f8f5f1;
+  position: relative;
+  top: 40px;
+  left: 300px;
+
+}
+td{
+  padding: 15px;
+}
+th{
+  padding: 15px;
+}
